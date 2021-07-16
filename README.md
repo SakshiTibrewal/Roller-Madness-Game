@@ -1,4 +1,4 @@
-# RollerMadness-Unity
+# Roller-Madness-Game
 Roller-ball game created in Unity3D
 
 WASD / arrow keys to move the ball. Collect coins to beat the level. Beware of enemy boxes (orangish cubes) and the death zone below!
